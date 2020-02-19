@@ -1,4 +1,4 @@
-#Robot Framework Pywinauto Library
+## Robot Framework Pywinauto Library
 
 A Robot Framework library that uses Pywinauto to test Windows desktop apps using keyword-driven test scripts.
 This library is based on a old winbot.py library located in https://groups.google.com/forum/m/#!topic/robotframework-devel/lTPC2H4XxW8 and developed by Dragonfyre13. 
