@@ -1,9 +1,5 @@
 *** Settings ***
-#Library  Remote    http://127.0.0.1:8270    WITH NAME    remote0
-Library  PywinautoLibrary     WITH NAME    remote0
-
-
-*** Variables ***
+Library  Remote    http://127.0.0.1:8270    WITH NAME    remote0
 
 *** Test Cases ***
 Test Notepad
