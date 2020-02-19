@@ -8,11 +8,13 @@ New functionalities will added in a near future.
 
 ### Usage:
 1. install Robot Framework and PyWinAuto
-    - pip install robotframework
-    - pip install pywinauto
+
+       pip install robotframework
+       pip install pywinauto
     
 3. Execute a local robotframework script that imports the library
-    robot pywinauto.robot
+
+       robot pywinauto.robot
     
 ### Example Robot script:
     *** Settings ***
@@ -36,9 +38,10 @@ New functionalities will added in a near future.
 ### Usage:
 
 1. install Robot Framework, Remote Library and PyWinAuto
-    - pip install robotframework
-    - pip install robotremoteserver
-    - pip install pywinauto
+
+        pip install robotframework
+        pip install robotremoteserver
+        pip install pywinauto
 
 2. Launch the remote server: in this example we're using the localhost ip (127.0.0.1), in a real scenario an accessible ip should be used:    
         
