@@ -4,7 +4,7 @@ This is a Robot Framework library that uses Pywinauto to test Windows desktop ap
 This library is based on a old winbot.py library located in https://groups.google.com/forum/m/#!topic/robotframework-devel/lTPC2H4XxW8 and developed by Dragonfyre13. 
 
 Altran created the library to be working in Python 3.x and the new versions of Pywinauto (0.6.8) and included the remote interface. 
-New functionalities will added in a near future.
+New functionalities will be added in a near future.
 
 ### Usage:
 1. install Robot Framework and PyWinAuto
